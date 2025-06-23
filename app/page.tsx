@@ -242,7 +242,7 @@ export default function HomePage() {
       {/* Google Tag Manager (noscript) */}
       <noscript>
         <iframe
-          src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"
+          src="https://www.googletagmanager.com/ns.html?id=GTM-MXHR9PSW"
           height="0"
           width="0"
           style={{ display: "none", visibility: "hidden" }}
