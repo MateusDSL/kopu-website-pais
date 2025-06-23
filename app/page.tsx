@@ -342,76 +342,25 @@ function Header() {
 
 function HeroSection() {
   return (
-    <section
-      className={`
-        relative text-white
-        sm:py-20 py-[280px]
-        md:py-32
-        overflow-hidden flex flex-col justify-center
-      `}
-      style={{
-        backgroundImage: "url('/images/banner03.png')",
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-        backgroundRepeat: "no-repeat",
-      }}
-    >
-      {/* Desktop: vídeo de fundo */}
-      <video
-        className="hidden sm:block absolute inset-0 w-full h-full object-cover z-0"
-        autoPlay
-        muted
-        playsInline
-        preload="auto"
-      >
-        <source src="/videos/banner.mp4" type="video/mp4" />
-        {/* Fallback para navegadores que não suportam vídeo */}
-        <div 
-          className="absolute inset-0 w-full h-full"
-          style={{
-            backgroundImage: "url('/videos/banner.mp4')",
-            backgroundSize: "cover",
-            backgroundPosition: "center",
-            backgroundRepeat: "no-repeat",
-          }}
+    <>
+      {/* Desktop version */}
+      <div className="hidden sm:block relative w-full">
+        <img
+          src="/images/bannerdesktop.png"
+          alt="Banner Dia dos Pais Kopu"
+          className="w-full h-auto object-cover min-h-[400px] max-h-[800px]"
         />
-      </video>
-      {/* Overlay escuro opcional para melhor legibilidade do texto */}
-      <div className="absolute inset-0 bg-black/20 z-10"></div>
-      <div className="container mx-auto px-4 relative z-20">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start mt-[-180px] sm:mt-0">
-          <div className="space-y-8">
-            <div className="space-y-4">
-              <Badge className="bg-green-500/20 text-green-300 border-green-500/30 px-4 py-2 text-sm font-semibold">
-                 👨‍👧‍👦 Promoção Especial - Dia dos Pais
-              </Badge>
-              <h1 className="text-5xl md:text-6xl font-bold leading-tight">
-                <span className="bg-gradient-to-r from-white via-green-200 to-green-400 bg-clip-text text-transparent">
-                  Sua Marca
-                </span>
-                <br />
-                <span className="text-white">Presente</span>
-                <br />
-                <span className="text-green-400"> nos momentos que importam.</span>
-              </h1>
-              <p className="text-xl text-white/90 leading-relaxed max-w-2xl">
-                Neste Dia dos Pais, reconheça e valorize os colaboradores que equilibram a jornada profissional e a de pai.
-              </p>
-            </div>
-            <div className="flex flex-col sm:flex-row gap-4" >
-               <Button asChild className="bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white px-8 py-4 rounded-xl text-lg font-semibold shadow-lg hover:shadow-xl transition-all duration-300 flex items-center gap-2">
-                <a href="#produtos" className="flex items-center gap-2">
-                  <MessageCircle className="w-5 h-5" />
-                  Solicite um Orçamento!
-                </a>
-              </Button>
-            </div>
-          </div>
-          <div className="relative">
-          </div>
-        </div>
       </div>
-    </section>
+
+      {/* Mobile version */}
+      <div className="block sm:hidden relative w-full">
+        <img
+          src="/images/bannermobile.png"
+          alt="Banner Dia dos Pais Kopu"
+          className="w-full h-auto object-cover min-h-[280px]"
+        />
+      </div>
+    </>
   )
 }
 
