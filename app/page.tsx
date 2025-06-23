@@ -236,6 +236,10 @@ export default function HomePage() {
         `}
       </Script>
       {/* End Google Tag Manager */}
+      {/* Favicon */}
+      <Head>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
       {/* Google Tag Manager (noscript) */}
       <noscript>
         <iframe
