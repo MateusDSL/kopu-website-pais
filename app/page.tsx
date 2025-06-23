@@ -554,14 +554,18 @@ function CatalogHighlightSection() {
       <div className="container mx-auto">
         <div className="sm:bg-gradient-to-br sm:from-slate-900 sm:to-slate-800 rounded-3xl p-4 sm:p-8 lg:p-12 sm:shadow-xl sm:transition-all sm:duration-300 sm:ease-in-out hover:sm:-translate-y-2 hover:sm:shadow-2xl">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-16 items-center">
-            <div className="relative flex items-center justify-center">
-              <Image
-                src="/images/catalogo.webp"
-                alt="Catálogo Dia dos Pais - Produtos promocionais Kopu"
-                width={800}
-                height={580}
-                className="rounded-2xl shadow-xl"
-              />
+            <div className="relative flex items-center justify-center cursor-pointer">
+              <a href="https://drive.google.com/file/d/15TdZ3dWgplAFQsvKoQlfQOouYbxhQ0cH/view" 
+                 target="_blank" 
+                 rel="noopener noreferrer">
+                <Image
+                  src="/images/catalogo.webp"
+                  alt="Catálogo Dia dos Pais - Produtos promocionais Kopu"
+                  width={800}
+                  height={580}
+                  className="rounded-2xl shadow-xl hover:opacity-90 transition-opacity duration-300"
+                />
+              </a>
             </div>
             <div className="space-y-6 sm:space-y-8">
               <div>
