@@ -50,7 +50,7 @@ interface PriceTier {
         { quantity: 500, price: 64.50, label: "500 unid." },
         { quantity: 500, price: 63.81, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar BOLSA TÉRMICA 9L",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar BOLSA TÉRMICA 9L",
       description: "Bolsa térmica de poliéster com três compartimentos e capacidade de 9 litros. A bolsa possui revestimento térmico em PEVA atóxico com costura soldada que não vaza, alça de mão, bolsos laterais telados e acompanha alça transversal.",
       features: [
          "Três compartimentos",
@@ -93,7 +93,7 @@ interface PriceTier {
         { quantity: 500, price: 55.80, label: "500 unid." },
         { quantity: 1000, price: 55.20, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar BOLSA TÉRMICA 10L",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar BOLSA TÉRMICA 10L",
       description: "Bolsa térmica de nylon 10 litros com dois compartimentos e bolsos laterais em malha. Compartimento principal com revestimento térmico.",
       features: [
          "Dois compartimentos",
@@ -134,7 +134,7 @@ interface PriceTier {
         { quantity: 500, price: 42.18 , label: "500 unid." },
         { quantity: 1000, price: 41.73 , label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar NÉCESSAIRE DE POLIÉSTER",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar NÉCESSAIRE DE POLIÉSTER",
       description: "Nécessaire confeccionada em poliéster, com detalhes em couro sintético. Possui três compartimentos com zíper. Na parte interna, contém 5 bolsos, sendo dois de tela, e alça para transporte.",
       features: [
         "Três compartimentos com zíper",
@@ -173,7 +173,7 @@ interface PriceTier {
         { quantity: 500, price: 111.41, label: "500 unid." },
         { quantity: 1000, price: 110.22, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar MOCHILA DE NOTEBOOK",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar MOCHILA DE NOTEBOOK",
       description: "Mochila para notebook confeccionada em algodão reciclado de 340 g/m². Possui compartimento principal para notebook e bolso lateral.",
       features: [
           "Material sustentável em algodão reciclado",
@@ -213,7 +213,7 @@ interface PriceTier {
         { quantity: 500, price: 120.53, label: "500 unid." },
         { quantity: 1000, price: 119.23, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar MOCHILA DE NYLON 22L",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar MOCHILA DE NYLON 22L",
       description: "Mochila de nylon 22 Litros com detalhes em couro sintético e três compartimentos, sendo o principal com bolso para notebook 15,6. Mochila possui bolso lateral e suporte externo usb.",
       features: [
          "Capacidade de 22 Litros",
@@ -258,7 +258,7 @@ interface PriceTier {
         { quantity: 500, price: 109.55 , label: "500 unid." },
         { quantity: 1000, price: 108.38 , label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar MALA ESPORTIVA",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar MALA ESPORTIVA",
       description: "Mala esportiva em tecido poliéster 600D (e 210D na parte inferior). Possui compartimento interno para roupas e um compartimento externo para roupa suja. A base da mala conta com 4 borrachas de apoio para evitar o contato direto com o chão. Possui zíper frontal, bolsos laterais e alças de mão e ombro.",
       features: [
       "Compartimento externo para roupa suja",
@@ -296,7 +296,7 @@ interface PriceTier {
         { quantity: 500, price: 107.14 , label: "500 unid." },
         { quantity: 1000, price: 105.98, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar MALA ESPORTIVA 190T",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar MALA ESPORTIVA 190T",
       description: "Mala esportiva em poliéster 600D e 300D, com interior em tecido 190T. Possui um bolso frontal com zíper e um bolso lateral em rede. Conta com um espaçoso compartimento lateral com zíper para porta-tênis. A mala tem alça de mão e alça de ombro com regulagem para maior conforto.",
       features: [
       "Compartimento lateral exclusivo para tênis",
@@ -334,7 +334,7 @@ interface PriceTier {
         { quantity: 500, price: 54.65 , label: "500 unid." },
         { quantity: 1000, price: 54.06, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar PORTA TÊNIS",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar PORTA TÊNIS",
       description: "Porta Tênis em tecido poliéster resistente, ideal para transportar calçados de forma prática e higiênica. Possui bolso frontal com zíper, painel em malha para ventilação e alça de mão.",
       features: [
      "Bolso frontal com zíper",
@@ -374,7 +374,7 @@ interface PriceTier {
         { quantity: 500, price: 66.74 , label: "500 unid." },
         { quantity: 1000, price: 66.02, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar BOLSA TÉRMICA 16 LITROS",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar BOLSA TÉRMICA 16 LITROS",
       description: "Bolsa térmica de poliéster com capacidade de 16 litros. Possui bolso frontal e bolsos laterais de nylon. Acompanha uma placa interna removível com divisórias e fixação de velcro, permitindo uma melhor organização dos itens.",
       features: [
    "Capacidade de 16 Litros",
@@ -416,7 +416,7 @@ interface PriceTier {
         { quantity: 500, price: 60.26, label: "500 unid." },
         { quantity: 1000, price: 59.62, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar BOLSA TÉRMICA 6L",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar BOLSA TÉRMICA 6L",
       description: "Bolsa térmica de nylon com capacidade de 6 litros e dois compartimentos. Possui bolso telado e tela de proteção interna, faixa frontal refletiva para segurança, bolso lateral telado e alça de mão com fivela de encaixe.",
       features: [
     "Capacidade de 6 Litros",
@@ -464,7 +464,7 @@ export const moreOptionsCarousel: ProductCarouselData = {
         { quantity: 500, price: 15.18, label: "500 unid." },
         { quantity: 1000, price: 15.01, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar CANECA INOX 180ML",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar CANECA INOX 180ML",
       colors: [
         { name: "Cinza", hex: "#7d7f81", image: "/images/caneca-inox-cinza.webp" },
       ],
@@ -503,7 +503,7 @@ export const moreOptionsCarousel: ProductCarouselData = {
         { quantity: 500, price: 32.36, label: "500 unid." },
         { quantity: 1000, price: 29.9, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar CANECA TÉRMICA 1,2L",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar CANECA TÉRMICA 1,2L",
       colors: [
         { name: "Preto", hex: "#000000", image: "/images/caneca-termica-12l-preto.webp"},
         { name: "ciano", hex: "#00D8E5", image: "/images/caneca-termica-12l-ciano.webp"},
@@ -561,7 +561,7 @@ export const moreOptionsCarousel: ProductCarouselData = {
         { quantity: 500, price: 32.36, label: "500 unid." },
         { quantity: 1000, price: 32.02, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar CANECA PLÁSTICA DE 400ML",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar CANECA PLÁSTICA DE 400ML",
       description: "Caneca plástica com área interna em inox, com capacidade de 400ml. A caneca possui tampa de fechamento através de um encaixe feito por um anel de silicone. Plástico utilizado PP (Polipropileno).",
       features: [
         "Capacidade de 400ml",
@@ -601,7 +601,7 @@ export const moreOptionsCarousel: ProductCarouselData = {
         { quantity: 500, price: 55.80, label: "500 unid." },
         { quantity: 1000, price: 55.80, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar COOLER 8 LATAS BEER",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar COOLER 8 LATAS BEER",
       description: "Cooler com capacidade para 8 latas e design temático de cerveja. Fabricado em polipropileno (PP) com isolamento térmico interno em EPS, garantindo a temperatura de suas bebidas.",
       features: [
        "Capacidade para 8 latas",
@@ -637,7 +637,7 @@ export const moreOptionsCarousel: ProductCarouselData = {
           { quantity: 100, price: 43.20, label: "100 unid." },
           { quantity: 500, price: 40.18 , label: "500 unid." },
         ],
-        budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar COPO TÉRMICO INOX 320ML",
+        budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar COPO TÉRMICO INOX 320ML",
         description: "Diga adeus ao café frio na sua mesa! Este copo térmico de 320ml tem o tamanho perfeito para sua dose diária de energia, mantendo sua bebida quente por muito mais tempo.",
         features: [
           "Isolamento Térmico",
@@ -677,7 +677,7 @@ export const moreOptionsCarousel: ProductCarouselData = {
           { quantity: 100, price: 42.96 , label: "100 unid." },
           { quantity: 500, price: 39.95 , label: "500 unid." },
         ],
-        budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar COPO TÉRMICO 500ML",
+        budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar COPO TÉRMICO 500ML",
         colors: [
           { name: "Preto", hex: "#000000", image: "/images/copo-termico-500ml-com-abridor-1-5.webp" },
         ],
@@ -720,7 +720,7 @@ export const techCarousel: ProductCarouselData = {
         { quantity: 500, price: 42.24 , label: "500 unid." },
         { quantity: 1000, price: 39.28 , label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar KIT CHURRASCO COM COPOS",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar KIT CHURRASCO COM COPOS",
       description: "Kit para churrasco em caixa para presente. Conta com tábua em bambu, duas taças em vidro para cerveja, faca de 7 polegadas e garfo trinchante com cabos em madeira e lâminas em inox.",
       features: [
         "Tábua de corte em bambu",
@@ -758,7 +758,7 @@ export const techCarousel: ProductCarouselData = {
         { quantity: 500, price: 80.00 , label: "500 unid." },
         { quantity: 1000, price: 79.14, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar KIT PARA CAIPIRINHA EM BAMBU",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar KIT PARA CAIPIRINHA EM BAMBU",
       description: "Kit para Caipirinha apresentado em caixa para presente. O conjunto conta com tábua e socador em Bambu, faca para frutas de 4 polegadas em Madeira/Inox e um copo de vidro com capacidade de 350ml.",
       features: [
       "Tábua de corte em Bambu",
@@ -796,7 +796,7 @@ export const techCarousel: ProductCarouselData = {
         { quantity: 500, price: 36.01 , label: "500 unid." },
         { quantity: 1000, price: 34.98, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar AVENTAL EM ALGODÃO E POLIÉSTER",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar AVENTAL EM ALGODÃO E POLIÉSTER",
       description: "Avental feito em mistura de algodão e poliéster (150 g/m²) com 2 bolsos frontais práticos. A alça é ajustável com fivela para melhor caimento.",
       features: [
      "Dois bolsos frontais",
@@ -839,7 +839,7 @@ export const techCarousel: ProductCarouselData = {
         { quantity: 500, price: 66.96 , label: "500 unid." },
         { quantity: 1000, price: 66.24, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar KIT MASCULINO 12 PEÇAS",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar KIT MASCULINO 12 PEÇAS",
       description: "Kit masculino com 12 peças em um prático estojo de couro sintético. A parte interna é revestida com plástico e elásticos para fixação dos itens. O kit inclui: removedor de pelos, abridor saca rolha, tesoura, aparelho de barbear, 3 lâminas para barba, escova de dente, pente, cortador de cutícula, mini kit unha 3 em 1 (empurrador, lixa e limpador), cortador de unha, pinça e espelho duplo com aumento.",
       features: [
     "Estojo completo com 12 peças",
@@ -879,7 +879,7 @@ export const techCarousel: ProductCarouselData = {
         { quantity: 500, price: 80.84, label: "500 unid." },
         { quantity: 1000, price: 79.97, label: "1000 unid." },
       ],
-      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, acessei o sua página de copos e queria orçar CONJUNTO DE FERRAMENTAS 16 PEÇAS",
+      budgetUrl: "https://tintim.link/whatsapp/826e2a65-3402-47a3-9dae-9e6a55f5ddb5/f4bcfc13-87e4-4dd5-8900-2321d8d02bf0?text=Olá, vim da pagina do dia dos pais e queria orçar CONJUNTO DE FERRAMENTAS 16 PEÇAS",
       description: "Conjunto de ferramentas com 16 peças em um prático estojo de nylon com zíper. O kit conta com alicate de bico; chave com dez peças de ponteiras (quatro phillips, duas fendas, três torx e adaptador) mais extensor; duas chaves de precisão (uma phillips e uma fenda); e um estilete de 1,85 polegadas.",
       features: [
     "Kit completo com 16 peças",
