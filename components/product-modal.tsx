@@ -478,7 +478,7 @@ export function ProductModal({ product, isOpen, onClose, selectedTierIndex, allI
                       <span className="inline-block"><svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24"><path d="M3 17V7a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z"/><path d="M16 8h2.5a2 2 0 0 1 2 2v5.5a2 2 0 0 1-2 2H16"/><path d="M7 12h4"/></svg></span>
                       <div>
                         <div className="font-semibold">Entrega</div>
-                        <div className="text-green-600 text-sm">{product.deliveryTime || "7 dias úteis"}</div>
+                        <div className="text-green-600 text-sm">{product.deliveryTime || "Rápida"}</div>
                       </div>
                     </div>
                     <div className="flex items-center gap-2">
