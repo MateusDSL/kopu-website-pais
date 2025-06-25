@@ -513,7 +513,7 @@ export function ProductModal({ product, isOpen, onClose, selectedTierIndex, allI
                             </span>
                             <div>
                               <div className="font-semibold">Entrega</div>
-                              <div className="text-green-600 text-sm">{product.deliveryTime || "7 dias úteis"}</div>
+                              <div className="text-green-600 text-sm">{product.deliveryTime || "Rápida"}</div>
                             </div>
                           </div>
                           <div className="flex items-center gap-2">
@@ -553,7 +553,7 @@ export function ProductModal({ product, isOpen, onClose, selectedTierIndex, allI
                             </span>
                             <div>
                               <div className="font-semibold">Entrega</div>
-                              <div className="text-green-600 text-sm">{product.deliveryTime || "7 dias úteis"}</div>
+                              <div className="text-green-600 text-sm">{product.deliveryTime || "Rápida"}</div>
                             </div>
                           </div>
                           <div className="flex items-center gap-2">
